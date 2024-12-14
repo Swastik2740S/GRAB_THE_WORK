@@ -57,3 +57,20 @@ The goal of **GRAB_THE_WORK** is to provide a dynamic, secure, and user-friendly
 - **MongoDB** (Atlas or Local instance)
 - **Git**
 - [Optional] Docker (for containerized deployment)
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Swastik2740S/GRAB_THE_WORK.git
+   cd GRAB_THE_WORK
+   For Backend:
+bash
+Copy code
+cd api
+npm install
+For Frontend:
+bash
+Copy code
+cd client
+npm install
+
