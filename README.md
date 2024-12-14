@@ -64,13 +64,13 @@ The goal of **GRAB_THE_WORK** is to provide a dynamic, secure, and user-friendly
    git clone https://github.com/Swastik2740S/GRAB_THE_WORK.git
    cd GRAB_THE_WORK
    For Backend:
-bash
-Copy code
-cd api
-npm install
-For Frontend:
-bash
-Copy code
-cd client
-npm install
+   cd api
+   npm i
+   For frontend:
+   cd client
+   npm i
+   For Socket:
+   cd socket
+   npm i
+
 
